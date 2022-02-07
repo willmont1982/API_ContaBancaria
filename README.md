@@ -21,18 +21,9 @@ Caso não consiga instalar através da interface, copiar o lombok.jar para o dir
 
 -javaagent:/DIRETÓRIO_QUE_VOCE_COPIOU_O_LOMBOK.JAR/lombok.jar
 
-Instruções
 
-Primeiramente deve-se clonar o repositório no endereço:
-
-https://github.com/willmont1982/API_ContaBancaria.git
-
-Após o projeto ser clonado, abra o terminal no diretório clonado **API-de-conta-digital**
-e utilize os seguintes comandos:
-
-cd API-de-conta-digital
 mvn install
-É de suma importância aguardar a execução dos comandos acima citados.
+
 
 Configuração do projeto
 Como acessar a aplicação:
