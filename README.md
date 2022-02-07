@@ -25,7 +25,7 @@ Instruções
 
 Primeiramente deve-se clonar o repositório no endereço:
 
-https://github.com/kenneth-de-oliveira/API-de-conta-digital.git
+https://github.com/willmont1982/API_ContaBancaria.git
 
 Após o projeto ser clonado, abra o terminal no diretório clonado **API-de-conta-digital**
 e utilize os seguintes comandos:
